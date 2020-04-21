@@ -1,3 +1,7 @@
+### *[This is a fork repository from [TECLIB/CFPropertyList](https://github.com/TECLIB/CFPropertyList)]*
+
+<sub><sup>just for fixing bugs if any</sup></sub>
+
 # CFPropertyList
 
 ![Teclib' Banner](https://user-images.githubusercontent.com/29282308/31669540-abed67a8-b355-11e7-98e2-0ad190f37088.png)
